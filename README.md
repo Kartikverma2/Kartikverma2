@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kartikverma2/Kartikverma2/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Kartikverma2/Kartikverma2/blob/main/snake.yml" />
 
 ###
 
